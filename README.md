@@ -1,13 +1,14 @@
 # campaign-blockchain
 
 # deploy solidty contract
-cd ethereum
-node compile.js
-node deploy.js
+<p>cd ethereum</p>
+<p>node compile.js<p>
+<p>node deploy.js<p>
 
 # run FrontEnd ie NextJs
 
-yarn install
-npm run dev
+<p>yarn install</p>
+<p>npm run dev</p>
+
 
 
